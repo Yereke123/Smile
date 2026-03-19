@@ -15,7 +15,7 @@
 }
 
 body {
-  background: url('image/bg.jpg') center/cover no-repeat fixed;
+  background: url('fon.png') center/cover no-repeat fixed;
   background-color: #171a1f;
   min-height: 100dvh;
   display: flex;
